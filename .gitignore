@@ -1,0 +1,2 @@
+# Ignore Packer build cache
+packer_cache/

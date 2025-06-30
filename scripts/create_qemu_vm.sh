@@ -1,0 +1,1 @@
+sudo virt-install --name vm01 --memory 128 --vcpus 1 --disk size=1,format=qcow2 --os-type linux --os-variant generic --virt-type qemu --dry-run --print-xml
